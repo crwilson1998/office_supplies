@@ -1,4 +1,4 @@
-# office_supplies
+# Office Supplies
 This repository holds my office supply finder data pipeline
 
 # Purpose
